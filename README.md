@@ -1,7 +1,6 @@
 # Data-Structures
-Building Blocks 
+Implementation of various data structures in c and c++
 
 Singly Linked List
 Queue
 Stack
- 
